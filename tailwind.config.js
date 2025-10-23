@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        lao: ['"Noto Serif Lao"', 'sans-serif'],
+        sans: ['"Noto Serif Lao"', 'sans-serif'],
       },
     },
   },
